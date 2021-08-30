@@ -1,0 +1,1 @@
+api_key = 'django-insecure-buc03-#68lf75=7xhhtltt&wy#e)p58b8queru#11$cd7nyrnz'
